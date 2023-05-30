@@ -1,6 +1,7 @@
 计算机编程书籍资源汇总 【CoderBooks】
 ============================
 
+## 仓库简介
 **简介**：不定期分享编程开发相关的编程书籍、技术文章、学习资源、实用软件、互联网相关技术等。供各位小伙伴们学习参考，同时也方便自己提升，欢迎 `Watch`、`Star`。
 
 - 以下所有编程学习书籍资源，均收集于网络或来着码友投稿，仅供学习交流，欢迎大家积极投稿。
@@ -10,15 +11,13 @@
 
 <p align="center"><img src="https://cdn.staticaly.com/gh/iGaoWei/codercdn@master/img/wechat-code.png" width="320" height="320" alt="微信赞赏码" /></p>
 
-## 参与交流
+## 欢迎投稿
 
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
+欢迎大家将珍藏已久的经典免费书籍资源共享出来，您可以通过以下方式提供：
 
-* 使用 [Pull Request](https://github.com/justjavac/free-programming-books-zh_CN/pulls) 提交
+* 使用 [Issues](https://github.com/iGaoWei/CoderBooks/issues/new) 提交
+* 使用 [Pull Request](https://github.com/iGaoWei/CoderBooks/pulls) 提交
 
-如果你发现了不能访问的链接，也可以提 PR，在无法访问链接的后面增加 `:worried:`。
-
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
 
