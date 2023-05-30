@@ -13,7 +13,7 @@
 
 ## 欢迎投稿
 
-欢迎大家将珍藏的免费编程书籍资源共享出来，您可以通过以下方式提供：
+欢迎大家将珍藏的免费编程书籍资源分享出来，您可以通过以下方式提供： `赠人玫瑰，手有余香`
 
 * 使用 [Issues](https://github.com/iGaoWei/CoderBooks/issues/new) 提交
 * 使用 [Pull Request](https://github.com/iGaoWei/CoderBooks/pulls) 提交
@@ -32,7 +32,6 @@
   * [版本控制](#版本控制)
   * [Web](#web)
   * [编程艺术](#编程艺术)
-  * [游戏引擎](#游戏引擎)
   * [其它](#其它)
 
 * 数据结构算法类
@@ -82,10 +81,6 @@
   * [Swift](#swift)
 
 
-## 置顶
-
-- [[笔记]前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/) :100:
-- [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
 
 ## 操作系统
 
@@ -157,7 +152,6 @@
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh/v2)
-* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [Git权威指南](http://www.worldhello.net/gotgit/)
@@ -165,7 +159,6 @@
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org)
-* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [GitHub帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
@@ -177,7 +170,6 @@
 ## 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/) :worried:
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [21天学会Emacs](http://book.emacs-china.org/)
 * [一年成为Emacs高手 (像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
@@ -533,7 +525,7 @@
 [返回目录](#目录)
 
 ## JavaScript
-
+* [前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/)
 * [现代 Javascript 教程](https://zh.javascript.info/)
 * [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
 * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
@@ -577,6 +569,8 @@
     * [一起学 Node.js](https://github.com/nswbmw/N-blog)
     * [Node入门：一本全面的Node.js教程](https://www.nodebeginner.org/index-zh-cn.html)
     * [从零开始的Nodejs系列文章](http://blog.fens.me/series-nodejs/)
+    * [如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+    
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -879,8 +873,6 @@
 
 [返回目录](#目录)
 
-
-8888
 
 更多分享
 ---------
