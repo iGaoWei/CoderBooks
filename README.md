@@ -1,4 +1,4 @@
-计算机编程书籍资源汇总 【CoderBooks】
+程序员编程书籍资源汇总 【CoderBooks】
 ============================
 
 ## 仓库简介
@@ -13,7 +13,7 @@
 
 ## 欢迎投稿
 
-欢迎大家将珍藏已久的经典免费书籍资源共享出来，您可以通过以下方式提供：
+欢迎大家将珍藏的免费编程书籍资源共享出来，您可以通过以下方式提供：
 
 * 使用 [Issues](https://github.com/iGaoWei/CoderBooks/issues/new) 提交
 * 使用 [Pull Request](https://github.com/iGaoWei/CoderBooks/pulls) 提交
@@ -21,30 +21,33 @@
 
 ## 目录
 
-* 语言无关类
+* 计算机基础类
   * [操作系统](#操作系统)
-  * [智能系统](#智能系统)
-  * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
-  * [函数式概念](#函数式概念)
-  * [计算机图形学](#计算机图形学)
+  * [计算机网络](#计算机网络)
+  * [计算机组成原理](#计算机组成原理)
+  * [设计模式](#设计模式)
+  * [正则表达式](#正则表达式)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
-  * [编辑器](#编辑器)
-  * [NoSQL](#nosql)
-  * [PostgreSQL](#postgresql)
-  * [MySQL](#mysql)
-  * [管理和监控](#管理和监控)
-  * [项目相关](#项目相关)
-  * [设计模式](#设计模式)
   * [Web](#web)
-  * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   * [游戏引擎](#游戏引擎)
-  * [算法](#算法)
   * [其它](#其它)
 
-* 语言相关类
+* 数据结构算法类
+  * [算法](#算法)
+
+* 数据库类
+   * [NoSQL](#nosql)
+   * [PostgreSQL](#postgresql)
+   * [MySQL](#mysql)
+   * [大数据](#大数据)
+  
+* 面试相关类
+  * [面试](#面试)
+  
+* 编程语言相关类
   * [Android](#android)
   * [APP](#app)
   * [AWK](#awk)
@@ -78,8 +81,6 @@
   * [Shell](#shell)
   * [Swift](#swift)
 
-* [读书笔记及其它](#读书笔记及其它)
-* [测试相关](#测试相关)
 
 ## 置顶
 
@@ -91,14 +92,12 @@
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [鸟哥的Linux私房菜](http://linux.vbird.org/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版):worried:
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html) :worried:
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
-* [FreeRADIUS新手入门](http://freeradius.akagi201.org) :worried:
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
