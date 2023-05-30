@@ -35,6 +35,7 @@
   * [其它](#其它)
 
 * 数据结构算法类
+  * [数据结构](#数据结构)
   * [算法](#算法)
 
 * 数据库类
@@ -86,13 +87,8 @@
 * [鸟哥的Linux私房菜](http://linux.vbird.org/)
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [操作系统教程.孙钟秀.文字版](https://pan.baidu.com/s/1NyfbnkXv7gIIDGXpBVtrsg?pwd=sc3a)
-* [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
+* [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
-* [Docker中文指南](https://github.com/widuu/chinese_docker)
-* [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
-* [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
-* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
-* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
@@ -101,9 +97,8 @@
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
-* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+* [计算机系统系统架构与操作系统的高度集成](https://pan.baidu.com/s/129ttW5464rlOk7xK3Ke0ow?pwd=49qx)
 
 [返回目录](#目录)
 
@@ -290,17 +285,22 @@
 
 ## 编程艺术
 
+* [代码整洁之道.(美)马丁.扫描版](https://pan.baidu.com/s/10ipwfaSI70w8Auf4JaisuQ?pwd=d087)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
-* [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) 
+* [计算机程序设计艺术.第一卷](https://pan.baidu.com/s/1RSwa4hD5AsPhSyigfUJ7Rg?pwd=avse)
+* [计算机程序设计艺术.第二卷](https://pan.baidu.com/s/1hQ1_VeNioRKaVvHRZKSMzA?pwd=t4ee)
+* [计算机程序设计艺术.第三卷](https://pan.baidu.com/s/1CtLKd5o1A6fyu9CpH8BpNA?pwd=6rmw)
+* [计算机发展百年趣味史](https://pan.baidu.com/s/1S8lPCgcwJQZVKnZMMRY65Q?pwd=i0ln) (阿里出版)
 
 [返回目录](#目录)
 
-## 游戏引擎
 
-* [游戏引擎 浅入浅出](https://github.com/ThisisGame/cpp-game-engine-book)
+## 数据结构
+
+* [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 
 [返回目录](#目录)
+
 
 ## 算法
 
