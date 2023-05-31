@@ -7,6 +7,9 @@
 - 以下所有编程学习书籍资源，均收集于网络或来自码友投稿，仅供学习交流，欢迎大家积极投稿。
 + **[微信公众号【DreamCoders】](#更多分享)**
 
+<p align="center"><img src="https://cdn.staticaly.com/gh/iGaoWei/codercdn@master/img/计算机经典电子书大全.gif" alt="计算机经典电子书大全" /></p>
+
+
 收集整理不易，如果觉得对你有对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡：
 
 <p align="center"><img src="https://cdn.staticaly.com/gh/iGaoWei/codercdn@master/img/wechat-code.png" width="320" height="320" alt="微信赞赏码" /></p>
