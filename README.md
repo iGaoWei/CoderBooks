@@ -2,21 +2,24 @@
 ============================
 
 ## 仓库简介
-**简介**：不定期分享编程开发相关的编程书籍、技术文章、学习资源、实用软件、互联网相关技术等。供各位小伙伴们学习参考，同时也方便自己提升，欢迎 `Watch`、`Star`。
+CoderBooks是一个收集计算机领域经典书籍、学习资源的开源项目，供各位同学免费使用，永不收费！作为一名互联网/IT从业人员，经常需要搜索一些书籍、资源，在这个过程中踩过很多坑、浪费过很多时间。为了方便大家，我特意把这些年收集的计算机类书籍资源共享给大家。欢迎大家 `Watch`、`Star`。
 
 - 以下所有编程学习书籍资源，均收集于网络或来自码友投稿，仅供学习交流，欢迎大家积极投稿。
-+ **[微信公众号【DreamCoders】](#更多分享)**
+- 涵盖范围包括但不限于：计算机基础、前后端资源等。可以说，你想要的，这里都有！
+- 本仓库持续更新中，后续会陆续分享更多资源书籍，强烈建议大家 Star 下本仓库，找书再也不愁 ！
+- 更多资源内容可以关注**[微信公众号【DreamCoders】](#更多分享)**
+
+
+## 欢迎投稿
+
+欢迎大家共同完善这个项目，让免费资源不再难找！您可以通过以下方式提供： `赠人玫瑰，手有余香`
+
+* 使用 [Issues](https://github.com/iGaoWei/CoderBooks/issues/new) 提交
+* 使用 [Pull Request](https://github.com/iGaoWei/CoderBooks/pulls) 提交
 
 收集整理不易，如果觉得对你有对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡：
 
 <p align="center"><img src="https://cdn.staticaly.com/gh/iGaoWei/codercdn@master/img/wechat-code.png" width="320" height="320" alt="微信赞赏码" /></p>
-
-## 欢迎投稿
-
-欢迎大家将珍藏的免费编程书籍资源分享出来，您可以通过以下方式提供： `赠人玫瑰，手有余香`
-
-* 使用 [Issues](https://github.com/iGaoWei/CoderBooks/issues/new) 提交
-* 使用 [Pull Request](https://github.com/iGaoWei/CoderBooks/pulls) 提交
 
 
 ## 目录
@@ -47,6 +50,10 @@
 * 面试相关类
   * [面试](#面试)
   
+* 综合类
+   * [前端](#前端)
+   * [后端](#后端)
+   
 * 编程语言相关类
   * [Android](#android)
   * [APP](#app)
@@ -106,6 +113,7 @@
 ## 编译原理
 * [《编译原理》.陈意云.文字版](https://pan.baidu.com/s/1sRMrAO9g1yLH6tJ0sBENag?pwd=06tw)
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+* [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
 
 [返回目录](#目录)
 
@@ -346,6 +354,20 @@
 * [awk实战指南](https://book.saubcy.com/AwkInAction/)
 
 [返回目录](#目录)
+
+
+## 前端
+* [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+* [前端知识结构](https://github.com/JacksonTian/fks)
+* [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+* [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [前端免费书籍大全](https://github.com/vhf/free-programming-books)
+* [大前端工具集-聂微东](https://github.com/nieweidong/fetool)
+
+[返回目录](#目录)
+
+## 后端
+
 
 ## C/C++
 
