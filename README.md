@@ -24,6 +24,12 @@ CoderBooks是一个收集计算机领域经典书籍、学习资源的开源项�
 
 ## 目录
 
+* 推荐
+*  [500+程序员超级实用必备效率工具，全部免费分享](https://mp.weixin.qq.com/s?__biz=MzAwODExMTM4MQ==&mid=2649836364&idx=1&sn=5427c3f185afa6e3487da161dfb9153a&chksm=83763f36b401b620eac6075388417491ef41c1ffb15767a5ff94c0af5189b7c090634cdcd804&scene=21#wechat_redirect) :100:
+*  [100套最新最全大数据可视化炫酷大屏Html5模板](https://mp.weixin.qq.com/s?__biz=MzAwODExMTM4MQ==&mid=2649836159&idx=1&sn=2e4b628d26c16c263a1856636d2c5b59&chksm=83763e05b401b713271f1a3402ed4bec3abddf3f83335da3fdb8e78f450845224fa37ba60b80&scene=21#wechat_redirect) :100:
+*  [全网最全最多的计算机编程学习资源PDF电子书大合集](https://mp.weixin.qq.com/s?__biz=MzAwODExMTM4MQ==&mid=2649836414&idx=1&sn=54a239fbf90d0a5ebc5dfcfa4ad71ef0&chksm=83763f04b401b612332011fae9c6949bcdc509e5ed6e9cf1a2623412966308f121620e7cee0d&scene=21#wechat_redirect) :100:
+
+
 * 计算机基础类
   * [操作系统](#操作系统)
   * [编译原理](#编译原理)
